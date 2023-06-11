@@ -1,0 +1,20 @@
+.tab-item {
+  margin: 20px;
+}
+.active-button {
+  border: 1px solid #db1c48;
+  color: #ffffff;
+  width: 100px;
+  height: 30px;
+  background-color: #db1c48;
+  cursor: pointer;
+}
+
+.normal-button {
+  border: 1px solid #db1c48;
+  background-color: #ffffff;
+  color: #db1c48;
+  width: 100px;
+  height: 30px;
+  cursor: pointer;
+}
